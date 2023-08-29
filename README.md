@@ -11,15 +11,15 @@
 
 
 
-- 🔭 I’m currently working on **OpenEmbedded Linux, Custom Kernel**
+- 🔭 I’m currently working on **Linux, AWS**
 
-- 🌱 I’m currently learning **Ethical Hacking, OpenEmbedded Linux, AWS**
+- 🌱 I’m currently learning **Ethical Hacking, Customized Linux, BSP, AWS**
 
-- 💬 Ask me about **AWS, Linux, Cloud Computing, Embedded Linux**
+- 💬 Ask me about **AWS, Linux, Cloud Computing**
 
 - 📫 How to reach me **abhinavhbatia2@gmail.com**
 
-- 📄 Know about my experiences [Visit Now](https://drive.google.com/file/d/1SbphsZ_Epw9824_KVuQWMorh-M9h6QMa/view?usp=sharing)
+- 📄 Know about my experiences [Visit Now]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
