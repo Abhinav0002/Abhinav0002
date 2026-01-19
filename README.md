@@ -24,10 +24,3 @@
 
 </br>
 
-![Abhinav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abhinav0002&theme=dracula)
-
-
-
-<p><img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Abhinav0002&show_icons=true&include_all_commits=true&theme=radical" alt="Abhinav's github stats" /></p>
-
-<p><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav0002&theme=tokyonight" alt="Abhinav0002"/></p>
