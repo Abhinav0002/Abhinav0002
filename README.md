@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **Linux, AWS**
 
-- 🌱 I’m currently learning **Ethical Hacking, Customized Linux, BSP, AWS**
+- 🌱 I’m currently learning **Openshift, AI/ML**
 
-- 💬 Ask me about **AWS, Linux, Cloud Computing**
+- 💬 Ask me about **Distriubted systems, Ceph**
 
 - 📫 How to reach me **abhinavhbatia2@gmail.com**
 
