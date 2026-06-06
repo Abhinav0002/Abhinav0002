@@ -111,18 +111,62 @@ const ABHINAV: Engineer = Engineer {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">&nbsp; Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Abhinav0002/NovusOS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav0002&repo=NovusOS&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9" /></a>&nbsp;
-<a href="https://github.com/Abhinav0002/Monocular-Inertial-Slam"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav0002&repo=Monocular-Inertial-Slam&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9" /></a>
+### [NovusOS](https://github.com/Abhinav0002/NovusOS)
+Bare-metal operating system for AArch64 — monolithic kernel with preemptive scheduler, TCP/IP stack, FAT32 filesystem, VirtIO drivers, and a graphical UEFI desktop with interactive shell. Boots on QEMU and VMware Fusion.
 
-<a href="https://github.com/Abhinav0002/edge-cloud-ml"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav0002&repo=edge-cloud-ml&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9" /></a>&nbsp;
-<a href="https://github.com/Abhinav0002/sos_analyzer"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav0002&repo=sos_analyzer&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9" /></a>
+`Rust` `AArch64` `UEFI` `ARM64`
 
-<a href="https://github.com/Abhinav0002/sample-operator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav0002&repo=sample-operator&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9" /></a>&nbsp;
-<a href="https://github.com/Abhinav0002/azure-mlops-project"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhinav0002&repo=azure-mlops-project&theme=radical&hide_border=true&bg_color=0d1117&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9" /></a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### [Monocular-Inertial-Slam](https://github.com/Abhinav0002/Monocular-Inertial-Slam)
+Real-time visual SLAM using ORB-SLAM3 with a webcam and ICM-20948 IMU via Arduino Nano. Custom firmware for high-speed IMU streaming, camera-IMU synchronization, and upstream bug fixes.
+
+`C++` `OpenCV` `Arduino` `ORB-SLAM3`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [edge-cloud-ml](https://github.com/Abhinav0002/edge-cloud-ml)
+Edge-cloud ML platform for distributed model training and real-time inference on NVIDIA Jetson devices. Model registry with versioning, MQTT-based distribution, and Prometheus + Grafana observability.
+
+`Python` `FastAPI` `MQTT` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [sos_analyzer](https://github.com/Abhinav0002/sos_analyzer)
+ML-powered analyzer for Linux SOS reports. Detects storage issues across Disk, LVM, RAID, Multipath, and Ceph clusters. Features anomaly detection, failure prediction, and automated report generation.
+
+`Python` `Streamlit` `ML` `Ceph`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [sample-operator](https://github.com/Abhinav0002/sample-operator)
+Kubernetes Operator that manages a custom `App` CRD, reconciling it into Deployments with automatic drift correction, replica scaling, and cleanup via OwnerReferences.
+
+`Go` `Operator SDK` `OpenShift`
+
+</td>
+<td width="50%" valign="top">
+
+### [azure-mlops-project](https://github.com/Abhinav0002/azure-mlops-project)
+End-to-end MLOps pipeline on Azure — model training, containerized FastAPI inference, ACR + AKS deployment, Terraform provisioning, Prometheus/Grafana monitoring, and Trivy security scanning.
+
+`Python` `Azure` `Terraform` `AKS`
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -132,14 +176,6 @@ const ABHINAV: Engineer = Engineer {
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav0002&show_icons=true&hide_border=true&title_color=EE0000&icon_color=EE0000&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&ring_color=EE0000" />
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinav0002&layout=compact&hide_border=true&title_color=EE0000&text_color=c9d1d9&bg_color=0d1117&langs_count=10" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="65%" src="https://streak-stats.demolab.com/?user=Abhinav0002&hide_border=true&background=0d1117&stroke=EE0000&ring=EE0000&fire=EE0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=EE0000&sideLabels=c9d1d9&dates=555555" />
 
 </div>
 
