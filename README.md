@@ -17,9 +17,7 @@ Building at the intersection of operating systems, distributed storage, and clou
 
 ### About
 
-I'm a systems engineer at **Red Hat**, working on OpenShift Data Foundation and Ceph — debugging production storage failures, reproducing bugs, and bridging customers with engineering. Before that, I built computer vision software for XR devices on embedded Linux at a robotics startup, and did security consulting (VAPT) for web applications.
-
-Outside of work, I write bare-metal operating systems in Rust, build real-time SLAM pipelines with custom hardware, and design distributed ML platforms. I like working close to the metal and understanding systems end-to-end.
+Systems engineer at **Red Hat**, working on storage and Ceph. I enjoy building things from scratch — whether it's an operating system, a robotics pipeline, or a distributed ML platform.
 
 ---
 
